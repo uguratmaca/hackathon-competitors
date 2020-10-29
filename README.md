@@ -4,3 +4,4 @@ Adınızı Github veya Linkedin hesabınızla birlikte ekleyin. Her yeni hackath
 
 - [Uğur Atmaca](https://www.linkedin.com/in/atmacaugur/)
 - [Ege Dinnen](https://www.linkedin.com/in/ege-dinnen/)
+- [Arda Uzunoğlu](https://www.linkedin.com/in/arda-uzunoğlu/)
